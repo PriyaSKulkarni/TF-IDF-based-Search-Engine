@@ -8,6 +8,7 @@ Skills: Data Mining, Python, Jupyter Notebook, NLTK- natural language processing
 
 
 
+
    
 
 
